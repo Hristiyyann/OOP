@@ -1,0 +1,5 @@
+Kalnik 782 10 2
+Bronq 352 9 7
+Prozorec 234 3 6
+Bagajnik 352 23 8
+Vrata 352 7 9
